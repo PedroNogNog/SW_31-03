@@ -24,4 +24,6 @@ class Conta {
             
         }
     }
+
+export {Conta}
     
