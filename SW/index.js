@@ -8,3 +8,5 @@ let c2 = new Conta(400, 12345, 5432, 25987, titulares[1])
 let c3 = new Conta(300, 123456, 54321, 259876, titulares[2])
 
 let contas = [c1, c2, c3]
+
+console.log(contas)
